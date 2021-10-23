@@ -1,7 +1,7 @@
 # Devsground Links Decoded
 Decoded By SabbirIPTV
 
-আপনারা অনেকেই Devsground IPTV এর লিঙ্ক একটি একটি করে Decode করেন আবার অনেকে আছেন পারেন না, তাদের জন্য আমার নিজের Programme দিয়ে এই লিঙ্ক গুল Decode করে দিলাম । 
+আপনারা অনেকেই Devsground IPTV এর লিঙ্ক একটি একটি করে Decode করেন আবার অনেকে আছেন পারেন না, তাদের জন্য আমার নিজের Programme দিয়ে এই লিঙ্ক গুলো Decode করে দিলাম । 
 
 #### Decoded_Links: https://tinyurl.com/devsgroundbysabbiriptv
 #### Original_Links: https://tinyurl.com/devsgroundoriginal
