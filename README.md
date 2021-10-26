@@ -6,4 +6,4 @@ Decoded By SabbirIPTV
 #### Decoded_Links: https://raw.githubusercontent.com/sabbiriptv/Devsground_Decoded/main/devsground_bdix.m3u
 #### Original_Links: https://raw.githubusercontent.com/devsground/IPTV/master/channels_V2/bdix/bdix_bdtv.m3u
 
-### যেকোন প্রয়োজনে: sabbirhasan10000bd@gmail.com
+
